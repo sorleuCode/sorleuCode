@@ -1,16 +1,21 @@
 ### Hi there 👋
+I'm Muhammed Soliu, a passionate Full Stack developer from Nigeria. Welcome to my GitHub profile!
 
-<!--
-**sorleuCode/sorleuCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me:
 
-Here are some ideas to get you started:
+💻 I'm currently working on hostel management app.
+🌱 I'm currently learning blockchain developmen
+💬 Ask me about software development.
+📫 How to reach me: soliumuhammed953@gmail.com
+👨‍💻 Languages and Tools: javascript, HTML5, react.js, Tailwind, nodejs, mongodb
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 GitHub Stats:
+
+📝 Recent Blog Posts:
+
+
+
+🌟 Fun Fact:
+i love hanging out and exploring.
+
+Thanks for visiting! Don't forget to ⭐️ my repositories if you find them interesting! 😄
