@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Blockchain development**
 
-- 👨‍💻 All of my projects are available at [https://sorleucode.vercel.app/](https://sorleucode.vercel.app/)
-
 - 📝 I regularly write articles on [https://medium.com/@soliumuhammed953](https://medium.com/@soliumuhammed953)
 
 - 💬 Ask me about **React, JavaScript, Typescript, Solidity, MUI, TailwindCss ,HTML, CSS,**
